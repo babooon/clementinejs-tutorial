@@ -1,0 +1,27 @@
+{
+  "name": "clementinejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babooon/clementinejs-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babooon/clementinejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/babooon/clementinejs-tutorial#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "mongoose": "^4.6.8",
+    "passport": "^0.3.2",
+    "passport-github": "^1.1.0"
+  }
+}
